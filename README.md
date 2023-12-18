@@ -1,9 +1,10 @@
 <p align="center">
   <img align="center" width="400" src="bangkit.jpg" />
 </p>
-# <p align="center">FitChange</p>
-### <p align="center">Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise</p>
-### <p align="center">Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_</p>
+<h1 align="center">FitChange</h1>
+<h2 align="center">Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise</h2>
+
+<h3 align="center">Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_</h3>
 
 #### Members
 | Name                          | ID          | Path               | University                                    | Github            |
