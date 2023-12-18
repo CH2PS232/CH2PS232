@@ -4,7 +4,7 @@
 <h1 align="center">FitChange</h1>
 <h2 align="center">Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise</h2>
 
-<h3 align="center">Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_</h3>
+<h3 align="center">Bangkit 2023 Batch 2 Capstone Team: CH2-PS232</h3>
 
 #### Members
 | Name                          | ID          | Path               | University                                    | Github            |
